@@ -191,7 +191,11 @@
 </html>
 ```
 ## OUTPUT:
+### index
 ![alt text](image.png)
+### heritage
 ![alt text](image-1.png)
+### hotel booking
 ![alt text](image-2.png)
+### gallery
 ![alt text](image-3.png)
